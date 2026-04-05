@@ -6,6 +6,8 @@
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)
 
+Faculty Advisor: Dr. Nitin, Department of EECS
+
 **Smart Travel** is a full-stack AI-powered travel agent built as a Senior Design Capstone project at the University of Cincinnati. Users enter a budget, dates, and interests — the system returns ranked flight, hotel, and activity packages, lets users book and manage itineraries, and monitors prices in the background.
 
 ---
@@ -150,4 +152,3 @@ Full interactive docs: `http://localhost:8000/docs`
 | Sai Venkata Subhash Vakkalagadda | Computer Science, University of Cincinnati |
 | Sethu Kruthin Nagari | Computer Science, University of Cincinnati |
 
-Faculty Advisor: Dr. Nitin, Department of EECS
